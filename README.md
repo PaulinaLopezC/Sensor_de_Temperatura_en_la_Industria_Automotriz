@@ -1,6 +1,5 @@
 Sensor de Temperatura en la Industria Automotriz en MARIE (Modelación de Sistemas Mínimos y Arquitecturas Computacionales TC1032)
 
-
 Los sensores de temperatura son muy importantes en los automóviles para mantener en perfecto funcionamiento al motor. La función
 principal es medir la temperatura del refrigerante del motor y que funcione dentro de los rangos de temperatura seguros y eficientes.
 
