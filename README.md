@@ -11,6 +11,6 @@ soluciones que nos permiten tener más precisión de los datos y mucho más rapi
 situación que se presente basada en los datos recabados de los sensores. Todo esto se encuentra programado a nivel de ensamblador
 lo que requiere mucha más especificación en las instrucciones y mucho menos espacio de almacenamiento en la memoria.
 
-A01701095
-Guadalupe Paulina López Cuevas
+A01701095 Guadalupe Paulina López Cuevas
+
 3er Semestre IRS
